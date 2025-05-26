@@ -3,12 +3,12 @@ Landscape fire sourced-air pollution(PM2.5 and O3) related mortality burden and 
 
 A shinyApp online can be accessed at https://qr5g6g-zhihu-xu.shinyapps.io/LFSairShiny/
 
-after unzipping file, the csv file mainly including following variables:
-region: Australia, States/Territory, SA2s
-year: 2016,2017,2018,2019, 2016-2019
-death: death number
-pop: population
-type: 
+after unzipping file, the csv file mainly including following variables:                                           
+region: Australia, States/Territory, SA2s                                           
+year: 2016,2017,2018,2019, 2016-2019                                     
+death: death number                                       
+pop: population                                              
+type:                                      
 1. Total_ori: short-term burden + long-term burden(risk estimates from all-source air pollution)
 2. Total_global: short-term burden + long-term burden(risk estimates from all-source air pollution but calibrated by global short-term ratios)
 3. Total_aus: short-term burden + long-term burden(risk estimates from all-source air pollution but calibrated by Australian short-term ratios)
