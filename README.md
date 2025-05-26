@@ -24,8 +24,9 @@ type:
 13. Long-term PM2.5+O3_ori: all-source association
 14. Long-term PM2.5+O3_global: all-source association but calibrated by global study
 15. Long-term PM2.5+O3_aus: all-source association but calibrated by Australian study
-an: attributable number
-af: attributable fraction
-amr: attributable mortality rate (per 100 000 residents per year)
-vsl_us: value of statistical life at 2015 USD price
-vsl_aus: value of statistical life at 2015 AUD price
+
+an: attributable number               
+af: attributable fraction                       
+amr: attributable mortality rate (per 100 000 residents per year)                              
+vsl_us: value of statistical life at 2015 USD price                              
+vsl_aus: value of statistical life at 2015 AUD price                                 
